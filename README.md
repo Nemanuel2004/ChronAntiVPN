@@ -29,8 +29,8 @@ if (IPChecker.checkTimeout(address)) {}
 **#Tʜᴇ sᴀᴠᴇᴅ ᴠᴀʟᴜᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴇ ᴘʟᴀʏᴇʀ ᴀɴᴅ ᴜᴜɪᴅ ғᴏʀ ᴛʜᴇ ᴄᴏᴜɴᴛʀʏ ʜᴀs ᴄʜᴀɴɢᴇᴅ!**
 if (IPChecker.checkCHANGE(iso, name, uuid)) {}
 
-**#Cʜᴇᴄᴋ ғᴏʀ ʀᴇsᴛʀɪᴄᴛᴇᴅ ᴄᴏᴜɴᴛʀɪᴇs!**
+**#CHECK FOR RESTRICTED COUNTRIES!**
 if (IPChecker.checkCOUNTRY(address)) {}
 
-**#Cʜᴇᴄᴋ ғᴏʀ ᴠᴘɴ/ᴘʀᴏxʏ ᴜsᴀɢᴇ!**
+**#CHECK FOR VPN/PROXY USAGE!**
 if (IPChecker.checkVPN(address)) {}
